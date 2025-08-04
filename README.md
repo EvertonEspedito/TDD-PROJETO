@@ -38,7 +38,6 @@ TDD-PROJETO/
 
 ### 1. Clone o repositório
 
-```bash
 git clone https://github.com/EvertonEspedito/TDD-PROJETO.git
 cd TDD-PROJETO
 2. Instale o Poetry (caso não tenha)
